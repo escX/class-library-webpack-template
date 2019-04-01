@@ -1,3 +1,1 @@
-export default () => {
-  alert('It works!');
-}
+export default () => 'It works!';

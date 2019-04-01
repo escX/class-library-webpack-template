@@ -1,3 +1,3 @@
 import test from '../../src/index';
 
-test();
+console.log(test)
