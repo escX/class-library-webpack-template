@@ -1,5 +1,5 @@
 # js-library-webpack-template
-A template of js library built with webpack, devDependencies:
+A template of Javascript class library built with webpack, devDependencies:
 
 - `webpack`, `webpack-cli` 使用 `webpack` 编译，打包文件
 
