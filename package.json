@@ -1,7 +1,7 @@
 {
   "name": "js-library-webpack-template",
   "version": "1.0.0",
-  "description": "a template of js library built by webpack",
+  "description": "A template of js library built with webpack",
   "main": "index.js",
   "scripts": {
     "dev": "webpack-dev-server --open --config webpack.dev.js",
